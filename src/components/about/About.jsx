@@ -1,6 +1,6 @@
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/John-Cv.pdf";
+import CV from "../../assets/Lee Jun Sheng - Resume.pdf";
 import Info from "./Info";
 
 export default function About() {

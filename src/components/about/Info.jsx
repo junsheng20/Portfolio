@@ -4,19 +4,19 @@ export default function Info() {
       <div className="about__box">
         <i className="bx bx-award about__icon"></i>
         <h3 className="about__title">Experience</h3>
-        <span className="about__subtitle">8 Years Working</span>
+        <span className="about__subtitle">Fresh Graduate</span>
       </div>
 
       <div className="about__box">
         <i className="bx bx-briefcase-alt about__icon"></i>
         <h3 className="about__title">Completed</h3>
-        <span className="about__subtitle">48+ projects</span>
+        <span className="about__subtitle">30+ projects</span>
       </div>
 
       <div className="about__box">
-        <i className="bx bx-support about__icon"></i>
-        <h3 className="about__title">Support</h3>
-        <span className="about__subtitle">Online 24/7</span>
+        <i className="bx bxl-apple about__icon"></i>
+        <h3 className="about__title">Peference</h3>
+        <span className="about__subtitle">Mac Lover</span>
       </div>
     </div>
   );

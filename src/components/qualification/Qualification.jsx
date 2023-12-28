@@ -50,12 +50,10 @@ export default function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Design</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institute
-                </span>
+                <h3 className="qualification__title">Web Development</h3>
+                <span className="qualification__subtitle">Sigma School</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - 2023
                 </div>
               </div>
 
@@ -74,17 +72,17 @@ export default function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Art Director</h3>
+                <h3 className="qualification__title">Secondary School</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institute
+                  Hin Hua High School
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                  <i className="uil uil-calendar-alt"></i> 2013 - 2018
                 </div>
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Web Development</h3>
                 <span className="qualification__subtitle">
@@ -118,7 +116,7 @@ export default function Qualification() {
                   <i className="uil uil-calendar-alt"></i> 2017 - Present
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div
@@ -130,12 +128,10 @@ export default function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Product Designer</h3>
-                <span className="qualification__subtitle">
-                  Microsoft - Institute
-                </span>
+                <h3 className="qualification__title">Prop Firm Trader</h3>
+                <span className="qualification__subtitle">Self Employed</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> 2019 - 2023
                 </div>
               </div>
 
@@ -145,7 +141,7 @@ export default function Qualification() {
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -179,7 +175,7 @@ export default function Qualification() {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
